@@ -1,0 +1,25 @@
+.containerGallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background: #ffffff;
+}
+
+
+
+.imageGalleryParam {
+    border: #262626 solid 5px;
+    height: 300px;
+    padding: 10px;
+    margin: 5px;
+    transition:  all .7s;
+}
+
+.imageGalleryParam:hover {
+    border: #262626 solid 5px;
+    height: 300px;
+    padding: 0px;
+    margin: 5px;
+    transition:  all .3s;    
+}

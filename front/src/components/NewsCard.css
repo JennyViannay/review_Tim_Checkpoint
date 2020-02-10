@@ -1,0 +1,23 @@
+.NewsCard {
+    width: 16rem;
+}
+
+.containerTextCard {
+    height: 100px;
+}
+
+.imgCard{
+    height: 200px;
+    width: auto;
+}
+
+.BoutonLireLaSuite {
+    background: #3a2323;
+    color: white;
+}
+
+.BoutonLireLaSuite:hover {
+    border: 1.5px solid #3a2323;
+    background: #ffffff;
+    color: #3a2323;
+}
